@@ -1,0 +1,11 @@
+{
+  "name": "lista-compras-kmassada",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lista de compras Kmassada — lê PDFs e permite marcar artigos no carrinho",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  }
+}

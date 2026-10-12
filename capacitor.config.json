@@ -1,0 +1,6 @@
+{
+  "appId": "pt.kmassada.listacompras",
+  "appName": "Lista de compras",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
